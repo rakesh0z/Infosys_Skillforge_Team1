@@ -55,7 +55,7 @@ This project was built by a team of 4 developers, each contributing to different
 | **Frontend** | React 18, TypeScript, Vite, Tailwind CSS, Shadcn/UI, Three.js, React Query |
 | **Backend** | Spring Boot 3.5.7, Java 21, Spring Security, Spring Data MongoDB |
 | **Database** | MongoDB (Document Store) |
-| **Cloud/AI** | AWS S3 (Storage), OpenApi (AI Integration) |
+| **Cloud/AI** | AWS S3 (Storage), Gemini API (AI Integration) |
 | **DevOps** | Maven, Eslint, Docker (Optional) |
 
 ---
